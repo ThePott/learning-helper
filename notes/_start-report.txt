@@ -1,0 +1,6 @@
+[업무 보고]
+근무 시간: 13:00 ~ 16:00
+
+- 사용할 라이브러리 관련 논의 (react-router -> tanstack router)
+- 프로젝트 기간 동안 익혔으면 하는 것 제안 (complex component pattern, optimistic update)
+- 파일 및 폴더 컨벤션 정의
